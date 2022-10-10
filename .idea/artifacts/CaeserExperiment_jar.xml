@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CaeserExperiment:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CaeserExperiment_jar</output-path>
+    <root id="archive" name="CaeserExperiment.jar">
+      <element id="module-output" name="CaeserExperiment" />
+    </root>
+  </artifact>
+</component>

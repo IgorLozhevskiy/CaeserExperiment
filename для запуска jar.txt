@@ -1,0 +1,1 @@
+java -jar C:\CaeserExperiment\out\artifacts\CaeserExperiment_jar\CaeserExperiment.jar encode C:\\CaeserExperiment\\src\\Hamlet.txt 666
